@@ -25,7 +25,13 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the Repository:
 
-   git clone git@github.com:prarthana1998/Challenge_1.git 
+   git clone git@github.com:prarthana1998/Challenge_1.git
+
+##Usage
+
+This is an example of the title that is displayed when you hover over the image for better accessibility.
+![Alt Text](starter/assets/images/example.png)
+
 
 ## License
 
