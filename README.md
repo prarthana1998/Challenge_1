@@ -30,7 +30,8 @@ Follow these steps to set up and run the project locally:
 ##Usage
 
 This is an example of the title that is displayed when you hover over the image for better accessibility.
-![Alt Text](starter/assets/images/example.png)
+
+![](starter/assets/images/example.png)
 
 
 ## License
